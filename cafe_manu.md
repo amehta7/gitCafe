@@ -1,23 +1,16 @@
 # Coffee :
 
-- AFFOGATO
-- AMERICANO (or ESPRESSO AMERICANO)
-- CAFFÈ LATTE
-- CAFFÈ MOCHA
-- CAPPUCCINO
-- COLD BREW COFFEE
-- ESPRESSO
-- FREAKSHAKE
+- [ESPRESSO AMERICANO](recipes/Coffee.txt)
+- [CAFFÈ LATTE](recipes/Coffee.txt)
+- [CAFFÈ MOCHA](recipes/Coffee.txt)
+- [CAPPUCCINO](recipes/Coffee.txt)
+- [COLD BREW COFFEE](recipes/Coffee.txt)
 - And many more...
 
 # Snacks :
 
-- Welch’s Fruit Snacks
+- [South Indian Snacks](recipes/Dhosa.txt)
 - [Donut Holes](recipes/Deserts.txt)
-- Swiss Rolls
-- Seaweed Snacks
-- Honey Maid Grahams
-- Cadbury Crunchie
-- Shrimp chips
-- Twizzlers
+- [Swiss Rolls](recipes/Deserts.txt)
+- [Chinese Snacks](recipes/Pasta.txt)
 - And many more...
