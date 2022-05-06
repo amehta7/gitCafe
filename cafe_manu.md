@@ -13,7 +13,7 @@
 # Snacks :
 
 - Welch’s Fruit Snacks
-- Donut Holes
+- [Donut Holes](recipes/Deserts.txt)
 - Swiss Rolls
 - Seaweed Snacks
 - Honey Maid Grahams
